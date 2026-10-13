@@ -1,0 +1,6 @@
+{
+  "name": "4IR Artisan Centre Training",
+  "description": "QCTO-accredited Skills Development Provider offering industry-ready trade qualifications in automotive, electronics repair, and supply chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
